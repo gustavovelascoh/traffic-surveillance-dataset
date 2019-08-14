@@ -16,3 +16,7 @@ Set of video-based and multimodal traffic surveillance datasets. Special interes
 * 2014 - Ko-PER Dataset - Multiple Camera / Multiple Laser
   * Reference: E. Strigel, D. Meissner, F. Seeliger, B. Wilking and K. Dietmayer, "The Ko-PER intersection laserscanner and video dataset," 17th International IEEE Conference on Intelligent Transportation Systems (ITSC), Qingdao, 2014, pp. 1900-1901. doi: 10.1109/ITSC.2014.6957976
   * Available at: www.uni-ulm.de/in/mrm/forschung/datensaetze.html
+  
+* 2018 - AAU RainSnow Traffic Surveillance Dataset - RGB and thermal camera
+  * Reference: Bahnsen, Chris H. and Moeslund, Thomas B., "Rain Removal in Traffic Surveillance: Does it Matter?", IEEE Transactions on Intelligent Transportation Systems, 2018, pp. 1-18, doi: 10.1109/TITS.2018.2872502 
+  * Available at: https://www.kaggle.com/aalborguniversity/aau-rainsnow
