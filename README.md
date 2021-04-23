@@ -3,7 +3,7 @@ Set of video-based and multimodal traffic surveillance datasets. Special interes
 
 * 2014 - Lund University/McGill University/Polytechnique Montréal - Single/multicamera
   * Reference: N. Saunier, H. Ardo, J.-P. Jodoin, A. Laureshyn, M. Nilsson, A. Svensson, L. Fernando Miranda-Moreno, G.-A. Bilodeau, and K. Astrom. Public video data set for road transportation applications. In Transportation Research Board Annual Meeting Compendium of Papers, 2014. 14-2379
-  * Available at: http://www.tft.lth.se/en/research/video-analysis/co-operation/data-exchange/
+  * **(As of 2021-04 is not longer available at the link)** ~Available at: http://www.tft.lth.se/en/research/video-analysis/co-operation/data-exchange/~
 
 * 2014 - UrbanTracker Dataset - Single Camera
   * Reference: Jodoin, J.-P., Bilodeau, G.-A., Saunier, N., Urban Tracker: Multiple Object Tracking in Urban Mixed Traffic, Accepted for IEEE Winter conference on Applications of Computer Vision (WACV14), Steamboat Springs, Colorado, USA, March 24-26, 2014
